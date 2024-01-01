@@ -31,11 +31,11 @@ Use state-of-the-art [Sentence Transformers](https://huggingface.co/Ransaka/sinh
 
 ##### Use general search if you don't know what you are looking for
 
-![](./assets/reranking.gid)
+![](./assets/search.gif)
 
 ##### Utilize search terms if you know what you are looking for and get better ranking results
 
-![](./assets/search.gif)
+![](./assets/reranking.gif)
 
 ### 3. Meaning and Interpretation
 
