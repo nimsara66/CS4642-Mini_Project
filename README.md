@@ -13,13 +13,13 @@
 
 ## Introduction
 
-Welcome to Metaphor Mystique, a metaphor search engine powered by <span style="background: yellow;">Semantic Similarity Search and Ranking</span>. You can search in Natural Sinhala Language accross 100 metaphors and meanings that has been compiled and prepared by me.
+Welcome to Metaphor Mystique, a metaphor search engine powered by <span style="background: yellow;">Semantic Similarity Search and Ranking</span>. You can search in Natural Sinhala Language accross 100 metaphors and meanings compiled and prepared by me.
 
 ![](./assets/complete.gif)
 
 ## Motivation
 
-Use state-of-the-art [Sentence Transformers](https://huggingface.co/Ransaka/sinhala-roberta-sentence-transformer) for sentence embeddings and similarity search along with Elastic Search for better Information Retrieval and Ranking
+Utilize state-of-the-art [Sentence Transformers](https://huggingface.co/Ransaka/sinhala-roberta-sentence-transformer) for sentence embeddings and similarity search, along with Elastic Search for better Information Retrieval and Ranking.
 
 ## Key Features
 
@@ -45,7 +45,7 @@ In addition to displaying the metaphors themselves, Metaphor Quest offers in-dep
 
 ## Exciting Features Coming Soon - Retrieval Augmented Generation
 
-Use text-generation trasformers to perform Summarization, Q&A, etc tasks on retrieved data
+Utilize text-generation trasformers to perform Summarization, Q&A, and other tasks on retrieved data.
 
 ## Getting Started
 
